@@ -86,5 +86,5 @@ All code should be well-annotated with comments, line spacing, and descriptive v
 ### **TEAMS vs GitHub repo**
 
 Files added to both the GitHub repo and the shared TEAMS <u>**MUST**</u> have matching file names.
-    * Not all files added to the GitHub have to be added to the TEAMS.
-    * However, if you add a file to GitHub that also exists in TEAMS, the files must share the same file name and extension
+ * Not all files added to the GitHub have to be added to the TEAMS.
+ * However, if you add a file to GitHub that also exists in TEAMS, the files must share the same file name and extension
