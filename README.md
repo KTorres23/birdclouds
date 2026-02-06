@@ -75,3 +75,5 @@ repo for bird cloud GILBERT X PEASE manuscript
 ### [Misc](misc)
 
 * [goggins_meme.png](misc/goggins_meme.png) Self-explanatory
+* [exploratory](misc/exploratory/) Exploratory data analyses
+    * [exploratory/open_meteo](misc/exploratory/open_meteo) Contains script and output data to pull and join data from [open-meteo API](https://open-meteo.com/) to Birdweather stations

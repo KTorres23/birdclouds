@@ -1,0 +1,21 @@
+station,time_iso8601,cloud_cover_.,cloud_cover_low_.,cloud_cover_mid_.,cloud_cover_high_.,weather_stat_latitude,weather_stat_longitude,weather_stat_utc_offset_seconds,weather_stat_timezone,weather_stat_timezone_abbr,weather_stat_elevation,timestamp,confidence,common_name,scientific_name,station_lat,station_lon,og_timestamp
+"BirdNET-PI - Vårgårda, Sweden",2023-08-30T03:00,100,10,29,100,58.03163,12.745098,0,GMT,GMT,97,2023-08-30T03:00:00Z,0.952,Northern Cardinal,Cardinalis cardinalis,58.0294,12.7838,2023-08-30T03:16:34Z
+"BirdNET-Pi - Vienna, VA",2023-03-01T11:00,0,0,0,0,38.910366,-77.19562,0,GMT,GMT,111,2023-03-01T11:00:00Z,0.869,Northern Cardinal,Cardinalis cardinalis,38.8884,-77.2468,2023-03-01T10:36:12Z
+"BirdNET-Pi - Raymond, NH",2023-03-01T11:00,72,0,0,72,42.987698,-71.144135,0,GMT,GMT,60,2023-03-01T11:00:00Z,0.723,Northern Cardinal,Cardinalis cardinalis,43.0286,-71.1922,2023-03-01T10:45:00Z
+"Climbers Run Nature Center - Pequea, PA",2023-03-01T11:00,0,0,0,0,39.89455,-76.31799,0,GMT,GMT,128,2023-03-01T11:00:00Z,0.512,Northern Cardinal,Cardinalis cardinalis,39.9244,-76.298,2023-03-01T11:07:02Z
+"BirdNET-Pi - Fuquay Varina, NC",2023-03-01T11:00,33,0,0,33,35.606327,-78.77893,0,GMT,GMT,113,2023-03-01T11:00:00Z,0.836,Northern Cardinal,Cardinalis cardinalis,35.622,-78.7447,2023-03-01T11:12:37Z
+"BirdNET-Pi - Sparko’s Villa, Pitsburgh, PA",2023-03-01T11:00,0,0,0,0,40.597538,-80.07071,0,GMT,GMT,379,2023-03-01T11:00:00Z,0.715,Northern Cardinal,Cardinalis cardinalis,40.5776,-80.0526,2023-03-01T11:14:26Z
+"BirdNET-Pi - Mt Pleasant, SC",2023-03-01T11:00,100,0,0,100,32.93497,-79.852936,0,GMT,GMT,6,2023-03-01T11:00:00Z,0.815,Northern Cardinal,Cardinalis cardinalis,32.8952,-79.8119,2023-03-01T11:18:03Z
+"BirdNET-Pi - Sunbury, PA",2023-03-01T11:00,34,0,30,6,40.878735,-76.81366,0,GMT,GMT,155,2023-03-01T11:00:00Z,0.707,Northern Cardinal,Cardinalis cardinalis,40.8595,-76.7777,2023-03-01T11:20:30Z
+"BirdNET-Pi - Carlisle, MA",2023-03-01T11:00,50,0,0,50,42.495605,-71.33823,0,GMT,GMT,60,2023-03-01T11:00:00Z,0.94,Northern Cardinal,Cardinalis cardinalis,42.5442,-71.3733,2023-03-01T11:23:48Z
+"BirdNET-Pi - The Roost, Ontario, Canada",2023-03-01T12:00,100,29,97,100,43.690685,-79.276,0,GMT,GMT,87,2023-03-01T12:00:00Z,0.739,Northern Cardinal,Cardinalis cardinalis,43.6699,-79.3223,2023-03-01T11:30:36Z
+"BirdNET-Pi - Dillsboro, IN",2023-03-01T12:00,1,0,0,22,38.980667,-85.06848,0,GMT,GMT,247,2023-03-01T12:00:00Z,0.869,Northern Cardinal,Cardinalis cardinalis,38.99595,-85.01375,2023-03-01T11:31:01Z
+"BirdNET-Pi - Westerville, OH",2023-03-01T12:00,0,0,0,0,40.105446,-82.94116,0,GMT,GMT,267,2023-03-01T12:00:00Z,0.802,Northern Cardinal,Cardinalis cardinalis,40.1149,-82.9054,2023-03-01T11:31:39Z
+"BirdNET-Pi - Johns Creek, GA",2023-03-01T12:00,100,0,0,100,34.059753,-84.149994,0,GMT,GMT,320,2023-03-01T12:00:00Z,0.828,Northern Cardinal,Cardinalis cardinalis,34.0447,-84.2012,2023-03-01T11:33:03Z
+"BirdNET-Pi - Smyrna, GA",2023-03-01T12:00,100,100,0,100,33.848858,-84.50809,0,GMT,GMT,303,2023-03-01T12:00:00Z,0.654,Northern Cardinal,Cardinalis cardinalis,33.882,-84.495,2023-03-01T11:36:41Z
+"BirdNET-Pi - Amherst, OH",2023-03-01T12:00,16,0,0,0,41.370823,-82.241394,0,GMT,GMT,219,2023-03-01T12:00:00Z,0.778,Northern Cardinal,Cardinalis cardinalis,41.3846,-82.2458,2023-03-01T11:42:12Z
+"BirdNET-Pi - Goshen, IN",2023-03-01T12:00,3,0,0,0,41.581722,-85.84415,0,GMT,GMT,247,2023-03-01T12:00:00Z,0.829,Northern Cardinal,Cardinalis cardinalis,41.5637,-85.8348,2023-03-01T11:42:44Z
+"Greensboro, North Carolina",2023-03-01T12:00,68,29,0,25,36.098415,-79.84436,0,GMT,GMT,257,2023-03-01T12:00:00Z,0.377,Northern Cardinal,Cardinalis cardinalis,36.0726,-79.792,2023-03-01T11:44:42Z
+"South Bend, Indiana",2023-03-01T12:00,0,0,0,0,41.65202,-86.22833,0,GMT,GMT,219,2023-03-01T12:00:00Z,0.546,Northern Cardinal,Cardinalis cardinalis,41.6764,-86.252,2023-03-01T11:53:16Z
+"BirdNET-Pi - Darmstadt, IN",2023-03-01T12:00,54,0,0,71,38.066784,-87.57739,0,GMT,GMT,148,2023-03-01T12:00:00Z,0.769,Northern Cardinal,Cardinalis cardinalis,38.0993,-87.5792,2023-03-01T11:54:17Z
+BirdNET-Pi - Hendrix Habitat,2023-03-01T12:00,100,0,0,99,35.95782,-87.089264,0,GMT,GMT,272,2023-03-01T12:00:00Z,0.835,Northern Cardinal,Cardinalis cardinalis,35.987,-87.1451,2023-03-01T11:58:26Z
