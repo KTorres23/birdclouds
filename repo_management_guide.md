@@ -80,8 +80,11 @@ Determine with your team whether you will use native R scripts (.R), R Markdown 
 
 ### **Coding**
 
-All code should be well-annotated with comments, line spacing, and descriptive variable names
+All code should be well-annotated with comments, line spacing, and descriptive variable names.
 
+Please use the [`here` package](https://here.r-lib.org/) for referencing relative file paths, rather than hard-coding directories.
+
+Set the root directory to `birdclouds` using `here::i_am()` and use `here()` to access and create files within your scripts.
 
 ### **TEAMS vs GitHub repo**
 
